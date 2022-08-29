@@ -1,0 +1,10 @@
+@charset "utf-8";
+article>p{
+    background-color: aqua;
+    text-align: center;
+    padding: 20px;
+    height: 200px;
+    width: 200px;
+
+}
+
